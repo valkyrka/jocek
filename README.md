@@ -22,7 +22,7 @@ Jocek is a friendly Discord bot acting as an accountant doing a couple of things
 
 Jocek requires [Python](https://www.python.org/downloads/) 3.9+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and start it in a screen session.
 
 ```sh
 pip3 install -r requirements.txt -t .
